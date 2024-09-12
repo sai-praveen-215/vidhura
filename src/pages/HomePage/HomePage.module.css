@@ -1,0 +1,45 @@
+.Information_div {
+  width: 100%;
+
+  margin: auto;
+  /* background-color: aqua; */
+}
+.fields_type {
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  gap: 25px;
+  /* justify-content: center; */
+}
+.card {
+  background-color: green;
+  color: #fff;
+  font-size: large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.card_details {
+  box-shadow: green 0px 5px 15px;
+  margin-top: 20px;
+  background-color: green;
+  color: #fff;
+  font-size: large;
+}
+.Works {
+  height: 300px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  justify-content: center;
+  box-shadow: green 0px 5px 15px;
+  /* border: 1px solid green; */
+}
+.h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
